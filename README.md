@@ -1,6 +1,6 @@
 Hello, 👋 my name is JiWoong Kim(JKim). I'm a ph.D student and military research personnel in Kyungpook national university.
 
-My major is Particle physics. I'm researching the precise measurement of the Standard Model that explains the universe using the collider experiment in [CERN](https://home.cern/).
+My major is Particle physics. I'm researching the precise measurement of the Standard Model that explains the universe using the big data from collider experiment in [CERN](https://home.cern/).
 I have been studying data science and computer science since 2017 to apply those skills to my research. My major programming language is Python (sub: C++) and I'm familiar with Linux OS. Currently, Currently, I'm interested in data science, especially in Financial and Business. I will prepare the new career path to these fields after the graduation(2023).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ico1036)](https://github.com/anuraghazra/github-readme-stats)
