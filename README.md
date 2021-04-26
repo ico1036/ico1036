@@ -1,6 +1,6 @@
 Hello, 👋 my name is JiWoong Kim(JKim). I'm a ph.D student and military research personnel in Kyungpook national university.
 
-My major is Particle physics. I'm researching the precise measurement of Standard Model that explains the universe using collider experiment in (CERN)[https://home.cern/]
+My major is Particle physics. I'm researching the precise measurement of Standard Model that explains the universe using collider experiment in [CERN](https://home.cern/)
 
 
 I have been studying data analysis since 2017. 
