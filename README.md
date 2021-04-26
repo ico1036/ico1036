@@ -6,6 +6,30 @@ I have been studying data science and computer science since 2017 to apply those
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ico1036)](https://github.com/anuraghazra/github-readme-stats)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fico1036&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<div
+  class='LI-profile-badge'
+  data-version='v1'
+  data-size='medium'
+  data-locale='en_US'
+  data-type='horizontal'
+  data-theme='dark'
+  data-vanity='manavoza7'
+>
+  <a
+    class='LI-simple-link'
+    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
+  >
+    Manav Oza
+  </a>
+</div>
+
+ <script
+  type='text/javascript'
+  src='https://platform.linkedin.com/badges/js/profile.js'
+  async
+  defer
+></script>
+
 
 ## :briefcase: Career
 
