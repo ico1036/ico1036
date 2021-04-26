@@ -7,4 +7,14 @@ I have been studying data science and computer science since 2017 to apply those
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fico1036&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+## Career
+
+
+| Type                 | Date            | Contents                                                                               | Organization                                                                                                                                      |
+|----------------------|-----------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Education            | 2013.3 ~ 2017.2 | Barchelor's degree in Department of Physics                                            | Kyungpook national university (KNU)                                                                                                               |
+| Education & Research | 2017.3 ~ 2019.2 | Master's degree in Particle physics                                                    | Kyungpook national university (KNU)                                                                                                               |
+| Education & Research | 2019.3 ~        | PhD student in Particle physics & Military research personnel                          | Kyungpook national university (KNU) CMS group in CERN                                                                                             |
+| Project              | 2019.5 ~        | Application of scalable deep-learning in High energy physics using Nurion HPC (KISTI)  | Korea Institute of Science and Technology Information (KISTI)  Co-work with  Kyungpook national university Kyung hee university Yonsei university |
+| Research             | 2020.5 ~        | Physics analysis using columnar database framework ( Search for WZgamma production )   | CMS group in CERN Kyungpook national university  Co-work with Peking University                                                                   |
 
