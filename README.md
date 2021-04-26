@@ -9,6 +9,9 @@ I have been studying data science and computer science since 2017 to apply those
 https://img.shields.io/badge/-Linkedin-blue
 
 
+![LinkedIn]https://img.shields.io/badge/-Linkedin-blue
+
+
 ## :briefcase: Career
 
 
