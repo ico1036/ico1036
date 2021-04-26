@@ -11,7 +11,7 @@ I have been studying data science and computer science since 2017 to apply those
 
 
 
-## :briefcase: Carrer
+## :briefcase: Career
 
 
 | Type                 | Date            | Contents                                                                              | Organization                                                                                                                                      |
