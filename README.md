@@ -1,4 +1,4 @@
-Hello, 👋 my name is JiWoong Kim(JKim). I'm a PhD student and military research personnel in Kyungpook national university.
+Hello, 👋 my name is JiWoong Kim(JKim). I'm a PhD student and Technical Research Personnel in Kyungpook national university.
 
 My major is Particle physics. I'm researching the precise measurement of the Standard Model that explains the universe using the big data from collider experiment in [CERN](https://home.cern/).
 I have been studying data science and computer science since 2017 to apply those skills to my research. My major programming language is **Python** (sub: C++) and I'm familiar with **Linux OS**. Currently, I'm interested in data science, especially in Finance (Quantative investing) and Business. I will prepare the new career path to these fields after the graduation(2023).
