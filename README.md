@@ -12,7 +12,7 @@
 - 2019.02 - 2024.02
 
 🚀 Achivements 
-- [Ph.D paper](https://dcollection.knu.ac.kr/srch/srchDetail/000000106563)
+- [Ph.D thesis](https://dcollection.knu.ac.kr/srch/srchDetail/000000106563)
 - [R&D paper](https://iopscience.iop.org/article/10.1088/1742-6596/2438/1/012103)
 - [Master degree paper](https://pyxis.knu.ac.kr/#/search/detail/4498919)
 
