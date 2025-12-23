@@ -3,9 +3,8 @@
  - 2024.03 - Present
 
 🚀 Achivements 
- - [Launched AI-driven S&P500 mutual fund product](https://www.assetplus.co.kr/aifund/ai500.do)
-   - Styles : Growth, Income
-   - Category 주식형, 연금저축형, 퇴직연금형
+ - [Launched AI-driven S&P500 mutual fund product](https://www.assetplus.co.kr/invest/fundGoodDetail.do?seq=103)
+
 
 💼 Ph.D Researcher in High energy physics
 - Kyungpook National University, CERN CMS experiment
